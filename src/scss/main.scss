@@ -1,0 +1,16 @@
+// VARS
+$title-color: red;
+$p-color: black;
+
+body {
+    background-color: lightyellow;
+}
+
+h2,
+h3 {
+    color: $title-color;
+}
+
+p {
+    color: $p-color;
+}
